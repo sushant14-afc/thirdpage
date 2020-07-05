@@ -104,6 +104,12 @@ input{
     font-size: 11px;
 }
 
+@media (max-width:768px){
+    .click{
+        margin-left: 7px;
+    }
+   
+}
 
 .col{
     color: white;
